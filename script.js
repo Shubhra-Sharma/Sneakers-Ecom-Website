@@ -23,7 +23,7 @@ const products= [
         price: 149,
         colors: [
           {
-            img: "./imgag/jordan.png",
+            img: "./imgag/jordan-removebg-preview.png",
           },
         ],
     },
@@ -43,7 +43,7 @@ const products= [
         price:120,
         colors: [
             {
-                img:"./imgag/crater.png",
+                img:"./imgag/crater-removebg-preview.png",
             },
         ],
     },
